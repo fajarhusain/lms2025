@@ -4,13 +4,13 @@
         <div class="row gy-4">
             <div class="col-lg-4 col-md-6 footer-about">
                 <a href="index.html" class="logo d-flex align-items-center">
-                    <span class="sitename">InnovateEdu</span>
+                    <span class="sitename">Patitech Academy</span>
                 </a>
                 <div class="footer-contact pt-3">
-                    <p>Jl. Randusari Timur, Gg, Mawar I, No. 33</p>
-                    <p>Randusari, Kec. Pagerbarang, Kab. Tegal (52462)</p>
-                    <p class="mt-3"><strong>Telepon:</strong> <span>+62 877 7755 3390</span></p>
-                    <p><strong>Email:</strong> <span>info@innovate-edu.com</span></p>
+                    <p>Jl. Tambakromo-Kayen KM 3</p>
+                    <p>Mangunrekso, Tambakromo, Pati</p>
+                    <p class="mt-3"><strong>Telepon:</strong> <span>+62 852255559216</span></p>
+                    <p><strong>Email:</strong> <span>iinfo@patitech.id</span></p>
                 </div>
                 <div class="social-links d-flex mt-4">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -68,7 +68,8 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-        <p>© <span>Hak Cipta</span> <strong class="px-1 sitename">InnovateEdu</strong> <span>Seluruh hak cipta dilindungi</span></p>
+        <p>© <span>Hak Cipta</span> <strong class="px-1 sitename">Patitech Academy</strong> <span>Seluruh hak cipta
+                dilindungi</span></p>
         <div class="credits">
             <!-- All the links in the footer should remain intact. -->
             <!-- You can delete the links only if you've purchased the pro version. -->

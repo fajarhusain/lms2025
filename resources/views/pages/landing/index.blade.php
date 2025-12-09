@@ -97,8 +97,8 @@
                                         <div class="mb-3">
                                             <label for="adminPassword" class="form-label">Password</label>
                                             <input type="password" name="password" class="form-control rounded-pill"
-                                                id="adminPassword" placeholder="Masukkan password"
-                                                aria-label="password" autocomplete="current-password" required>
+                                                id="adminPassword" placeholder="Masukkan password" aria-label="password"
+                                                autocomplete="current-password" required>
                                         </div>
                                         <button type="submit" class="btn btn-danger w-100 rounded-pill">Login
                                             Admin</button>
@@ -128,7 +128,7 @@
                     <div class="col-xl-5" data-aos="fade-up" data-aos-delay="200">
                         <span class="about-meta">TENTANG KAMI</span>
                         <h2 class="about-title">Belajar Cerdas, Masa Depan Hebat</h2>
-                        <p class="about-description">Innovate Edu hadir untuk membangun ekosistem pendidikan digital
+                        <p class="about-description">Patitech Academy hadir untuk membangun ekosistem pendidikan digital
                             yang lebih mudah, menyenangkan, dan terjangkau.
                             Bersama guru, siswa, dan admin — kami percaya setiap langkah kecil adalah awal dari
                             perubahan besar.</p>
@@ -254,8 +254,7 @@
                                 </ul>
                             </div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/landing/img/features-illustration-1.webp" alt=""
-                                    class="img-fluid">
+                                <img src="assets/landing/img/features-illustration-1.webp" alt="" class="img-fluid">
                             </div>
                         </div>
                     </div><!-- End tab content item -->
@@ -282,8 +281,7 @@
                                 </ul>
                             </div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/landing/img/features-illustration-2.webp" alt=""
-                                    class="img-fluid">
+                                <img src="assets/landing/img/features-illustration-2.webp" alt="" class="img-fluid">
                             </div>
                         </div>
                     </div><!-- End tab content item -->
@@ -308,8 +306,7 @@
                                 </p>
                             </div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/landing/img/features-illustration-3.webp" alt=""
-                                    class="img-fluid">
+                                <img src="assets/landing/img/features-illustration-3.webp" alt="" class="img-fluid">
                             </div>
                         </div>
                     </div><!-- End tab content item -->
@@ -504,8 +501,7 @@
                     <!-- Dot Pattern Groups -->
                     <div class="dots dots-1">
                         <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-                            <pattern id="dot-pattern" x="0" y="0" width="20" height="20"
-                                patternUnits="userSpaceOnUse">
+                            <pattern id="dot-pattern" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
                                 <circle cx="2" cy="2" r="2" fill="currentColor"></circle>
                             </pattern>
                             <rect width="100" height="100" fill="url(#dot-pattern)"></rect>
@@ -543,55 +539,55 @@
 
                 <div class="swiper init-swiper">
                     <script type="application/json" class="swiper-config">
-            {
-              "loop": true,
-              "speed": 600,
-              "autoplay": {
-                "delay": 5000
-              },
-              "slidesPerView": "auto",
-              "pagination": {
-                "el": ".swiper-pagination",
-                "type": "bullets",
-                "clickable": true
-              },
-              "breakpoints": {
-                "320": {
-                  "slidesPerView": 2,
-                  "spaceBetween": 40
-                },
-                "480": {
-                  "slidesPerView": 3,
-                  "spaceBetween": 60
-                },
-                "640": {
-                  "slidesPerView": 4,
-                  "spaceBetween": 80
-                },
-                "992": {
-                  "slidesPerView": 6,
-                  "spaceBetween": 120
-                }
-              }
-            }
-          </script>
+                    {
+                        "loop": true,
+                        "speed": 600,
+                        "autoplay": {
+                            "delay": 5000
+                        },
+                        "slidesPerView": "auto",
+                        "pagination": {
+                            "el": ".swiper-pagination",
+                            "type": "bullets",
+                            "clickable": true
+                        },
+                        "breakpoints": {
+                            "320": {
+                                "slidesPerView": 2,
+                                "spaceBetween": 40
+                            },
+                            "480": {
+                                "slidesPerView": 3,
+                                "spaceBetween": 60
+                            },
+                            "640": {
+                                "slidesPerView": 4,
+                                "spaceBetween": 80
+                            },
+                            "992": {
+                                "slidesPerView": 6,
+                                "spaceBetween": 120
+                            }
+                        }
+                    }
+                    </script>
                     <div class="swiper-wrapper align-items-center">
-                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-1.png"
-                                class="img-fluid" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-2.png"
-                                class="img-fluid" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-3.png"
-                                class="img-fluid" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-4.png"
-                                class="img-fluid" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-5.png"
-                                class="img-fluid" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-6.png"
-                                class="img-fluid" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-7.png"
-                                class="img-fluid" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-8.png"
-                                class="img-fluid" alt=""></div>
+                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-1.png" class="img-fluid"
+                                alt=""></div>
+                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-2.png" class="img-fluid"
+                                alt=""></div>
+                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-3.png" class="img-fluid"
+                                alt=""></div>
+                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-4.png" class="img-fluid"
+                                alt=""></div>
+                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-5.png" class="img-fluid"
+                                alt=""></div>
+                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-6.png" class="img-fluid"
+                                alt=""></div>
+                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-7.png" class="img-fluid"
+                                alt=""></div>
+                        <div class="swiper-slide"><img src="assets/landing/img/clients/client-8.png" class="img-fluid"
+                                alt=""></div>
                     </div>
                     <div class="swiper-pagination"></div>
                 </div>
@@ -726,8 +722,8 @@
 
                     <div class="col-lg-3 col-md-6">
                         <div class="stats-item text-center w-100 h-100">
-                            <span data-purecounter-start="0" data-purecounter-end="1453"
-                                data-purecounter-duration="1" class="purecounter"></span>
+                            <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1"
+                                class="purecounter"></span>
                             <p>Jam Dukungan</p>
                         </div>
                     </div><!-- End Stats Item -->
@@ -976,8 +972,8 @@
                         <p class="faq-description">Temukan jawaban atas pertanyaan umum seputar fitur dan layanan
                             platform belajar kami.</p>
                         <div class="faq-arrow d-none d-lg-block" data-aos="fade-up" data-aos-delay="200">
-                            <svg class="faq-arrow" width="200" height="211" viewBox="0 0 200 211"
-                                fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <svg class="faq-arrow" width="200" height="211" viewBox="0 0 200 211" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
                                 <path
                                     d="M198.804 194.488C189.279 189.596 179.529 185.52 169.407 182.07L169.384 182.049C169.227 181.994 169.07 181.939 168.912 181.884C166.669 181.139 165.906 184.546 167.669 185.615C174.053 189.473 182.761 191.837 189.146 195.695C156.603 195.912 119.781 196.591 91.266 179.049C62.5221 161.368 48.1094 130.695 56.934 98.891C84.5539 98.7247 112.556 84.0176 129.508 62.667C136.396 53.9724 146.193 35.1448 129.773 30.2717C114.292 25.6624 93.7109 41.8875 83.1971 51.3147C70.1109 63.039 59.63 78.433 54.2039 95.0087C52.1221 94.9842 50.0776 94.8683 48.0703 94.6608C30.1803 92.8027 11.2197 83.6338 5.44902 65.1074C-1.88449 41.5699 14.4994 19.0183 27.9202 1.56641C28.6411 0.625793 27.2862 -0.561638 26.5419 0.358501C13.4588 16.4098 -0.221091 34.5242 0.896608 56.5659C1.8218 74.6941 14.221 87.9401 30.4121 94.2058C37.7076 97.0203 45.3454 98.5003 53.0334 98.8449C47.8679 117.532 49.2961 137.487 60.7729 155.283C87.7615 197.081 139.616 201.147 184.786 201.155L174.332 206.827C172.119 208.033 174.345 211.287 176.537 210.105C182.06 207.125 187.582 204.122 193.084 201.144C193.346 201.147 195.161 199.887 195.423 199.868C197.08 198.548 193.084 201.144 195.528 199.81C196.688 199.192 197.846 198.552 199.006 197.935C200.397 197.167 200.007 195.087 198.804 194.488ZM60.8213 88.0427C67.6894 72.648 78.8538 59.1566 92.1207 49.0388C98.8475 43.9065 106.334 39.2953 114.188 36.1439C117.295 34.8947 120.798 33.6609 124.168 33.635C134.365 33.5511 136.354 42.9911 132.638 51.031C120.47 77.4222 86.8639 93.9837 58.0983 94.9666C58.8971 92.6666 59.783 90.3603 60.8213 88.0427Z"
                                     fill="currentColor"></path>
@@ -1096,8 +1092,8 @@
                                 </div>
                                 <div class="content">
                                     <h4>Alamat Kami</h4>
-                                    <p>Jl. Randusari Timur, Gg. Mawar I, No. 33</p>
-                                    <p>Randusari, Kec. Pagerbarang, Kab. Tegal (52462)</p>
+                                    <p>Jl. Tambakromo-Kayen KM 3</p>
+                                    <p>Mangunrekso, Tambakromo, Pati</p>
                                 </div>
                             </div>
 
@@ -1107,8 +1103,8 @@
                                 </div>
                                 <div class="content">
                                     <h4>Nomor Telepon</h4>
-                                    <p>+62 877 7755 3390</p>
-                                    <p>+62 877 7755 3390</p>
+                                    <p>+62 852 5555 9216</p>
+
                                 </div>
                             </div>
 
@@ -1118,8 +1114,8 @@
                                 </div>
                                 <div class="content">
                                     <h4>Email</h4>
-                                    <p>info@innovate-edu.com</p>
-                                    <p>l.fnadhien@gmail.com</p>
+                                    <p>info@patitech.id</p>
+                                    <p>fajarhusainpati@gmail.com</p>
                                 </div>
                             </div>
                         </div>
@@ -1130,27 +1126,28 @@
                             <h3>Hubungi Kami</h3>
                             <p>Isi formulir di bawah ini untuk mengirim pesan langsung ke tim kami.</p>
 
-                            <form action="forms/contact.php" method="post" class="php-email-form"
-                                data-aos="fade-up" data-aos-delay="200">
+                            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up"
+                                data-aos-delay="200">
                                 <div class="row gy-4">
 
                                     <div class="col-md-6">
-                                        <input type="text" name="name" class="form-control"
-                                            placeholder="Nama Anda" required="">
+                                        <input type="text" name="name" class="form-control" placeholder="Nama Anda"
+                                            required="">
                                     </div>
 
                                     <div class="col-md-6 ">
-                                        <input type="email" class="form-control" name="email"
-                                            placeholder="Email Anda" required="">
+                                        <input type="email" class="form-control" name="email" placeholder="Email Anda"
+                                            required="">
                                     </div>
 
                                     <div class="col-12">
-                                        <input type="text" class="form-control" name="subject"
-                                            placeholder="Subjek" required="">
+                                        <input type="text" class="form-control" name="subject" placeholder="Subjek"
+                                            required="">
                                     </div>
 
                                     <div class="col-12">
-                                        <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
+                                        <textarea class="form-control" name="message" rows="6" placeholder="Message"
+                                            required=""></textarea>
                                     </div>
 
                                     <div class="col-12 text-center">
@@ -1226,20 +1223,20 @@
 
     <!-- ================== SCRIPT ================== -->
     <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const modalsMap = {
-                'success': 'passwordSuccess',
-                'logout_success': 'logoutSuccessModal'
-            };
+    document.addEventListener("DOMContentLoaded", function() {
+        const modalsMap = {
+            'success': 'passwordSuccess',
+            'logout_success': 'logoutSuccessModal'
+        };
 
-            @foreach (['success', 'logout_success'] as $key)
-                @if (session($key))
-                    var modalId = modalsMap['{{ $key }}'];
-                    var modal = new bootstrap.Modal(document.getElementById(modalId));
-                    modal.show();
-                @endif
-            @endforeach
-        });
+        @foreach(['success', 'logout_success'] as $key)
+        @if(session($key))
+        var modalId = modalsMap['{{ $key }}'];
+        var modal = new bootstrap.Modal(document.getElementById(modalId));
+        modal.show();
+        @endif
+        @endforeach
+    });
     </script>
 
 

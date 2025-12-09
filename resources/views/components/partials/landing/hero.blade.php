@@ -7,7 +7,7 @@
                 <div class="hero-content" data-aos="fade-up" data-aos-delay="200">
                     <div class="company-badge mb-4">
                         <i class="bi bi-gear-fill me-2"></i>
-                        Bangun Masa Depan Pendidikan Bersama Innovate Edu
+                        Bangun Masa Depan Pendidikan Bersama Patitech Academy
                     </div>
 
                     <h1 class="mb-4">
